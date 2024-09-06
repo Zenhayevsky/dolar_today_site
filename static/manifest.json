@@ -1,7 +1,6 @@
 {
   "short_name": "React App",
   "name": "Dolar Today",
-  "version": 1.2,
   "icons": [
     {
       "src": "favicon.ico",
